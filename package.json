@@ -21,6 +21,7 @@
     "react-native-screens": "~2.9.0",
     "react-native-web": "~0.13.12",
     "react-navigation": "4",
+    "react-navigation-drawer": "^2.7.0",
     "react-navigation-stack": "^1.10.3"
   },
   "devDependencies": {
