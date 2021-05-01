@@ -2569,6 +2569,13 @@ expo-location@~8.2.1:
   dependencies:
     invariant "^2.2.4"
 
+expo-mail-composer@~8.2.1:
+  version "8.2.1"
+  resolved "https://registry.yarnpkg.com/expo-mail-composer/-/expo-mail-composer-8.2.1.tgz#26168b747606a9531801f1322b1690aa22bfe7db"
+  integrity sha512-srZ+yyevorpMONqXoUYAc5alLPix8xCZXhnatyXHPS1a11OOSsjtURjeK0CL4okmIkCSyw2Ug3W6GXfxVgv7Qw==
+  dependencies:
+    query-string "^6.2.0"
+
 expo-notifications@~0.3.3:
   version "0.3.3"
   resolved "https://registry.yarnpkg.com/expo-notifications/-/expo-notifications-0.3.3.tgz#3c7b7275516028853e02f5c796e3365d4fb572ad"
@@ -4657,7 +4664,7 @@ qs@^6.5.0:
   dependencies:
     side-channel "^1.0.4"
 
-query-string@^6.13.6:
+query-string@^6.13.6, query-string@^6.2.0:
   version "6.14.1"
   resolved "https://registry.yarnpkg.com/query-string/-/query-string-6.14.1.tgz#7ac2dca46da7f309449ba0f86b1fd28255b0c86a"
   integrity sha512-XDxAeVmpfu1/6IjyT/gXHOl+S0vQ9owggJ30hhWKdHAsNPOcasn5o9BW0eejZqL2e4vMjhAxoW3jVHcD6mbcYw==
