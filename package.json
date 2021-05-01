@@ -10,6 +10,7 @@
   "dependencies": {
     "@react-native-community/datetimepicker": "2.4.0",
     "@react-native-community/masked-view": "0.1.10",
+    "@react-native-community/netinfo": "5.9.2",
     "expo": "38",
     "expo-image-picker": "~8.3.0",
     "expo-mail-composer": "~8.2.1",
