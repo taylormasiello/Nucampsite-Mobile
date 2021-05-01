@@ -12,6 +12,7 @@
     "@react-native-community/masked-view": "0.1.10",
     "@react-native-community/netinfo": "5.9.2",
     "expo": "38",
+    "expo-image-manipulator": "~8.2.1",
     "expo-image-picker": "~8.3.0",
     "expo-mail-composer": "~8.2.1",
     "expo-notifications": "~0.3.3",
